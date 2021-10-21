@@ -1,0 +1,3 @@
+class CreateMessageService {
+  async execute();
+}
